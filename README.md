@@ -1,6 +1,9 @@
 # html_css
 ## projects and apps by using html and css 
 
+> I want to use this space to explain my work more. I will take you through the html code, tags, uses. Lets get started. 
+
+
 1.	!DOCTYPE HTML: Defines Document type (Html version 5)
 2.	!-- comments-- : Defines a comment
 3.	html: Defines the root of an HTML document
